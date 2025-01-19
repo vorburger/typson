@@ -70,6 +70,7 @@ Then, just replace the `models` section of your API file with a `tsModels` prope
 
 ## Similar Projects
 
+* https://github.com/vega/ts-json-schema-generator
 * https://github.com/ysangkok/typescript-interface-to-jsonschema
 * http://blog2.vorburger.ch/2013/11/devoxx-hackathon-2-typescript-ide-w.html
 
